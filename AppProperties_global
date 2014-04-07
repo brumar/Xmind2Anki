@@ -1,0 +1,37 @@
+#---No Comment---
+#Mon Apr 07 13:57:39 CEST 2014
+directory=../gen/
+duplicate=true
+lock_questions_all=true
+never_content_in_label=true
+always_keep_your_images=true
+epurer_topic_vide=true
+always_equal_priority=true
+lock_keep_your_style=true
+always_questions_all=true
+never_content_in_notes=true
+lock_keep_your_markers=true
+seuil_root=1
+lock_content_in_notes=true
+src=../gen/test_import_4.anki
+lock_keep_your_images=true
+always_keep_your_link=true
+always_keep_your_label=true
+always_answers_all=true
+always_keep_your_markers=true
+always_concat=true
+savedirectory=C\:/Users/Nevrose/Desktop
+always_keep_your_notes=true
+ankidirectory=C\:/Users/Nevrose/Documents
+filename=import_4_java_edited.anki
+never_concat=true
+tempfile=../gen/temp.xmind
+lock_keep_your_link=true
+lock_answers_all=true
+always_keep_your_style=true
+lock_keep_your_label=false
+rank_options=false
+linkToanki=true
+opendirectory=C\:/Users/Nevrose/Desktop
+seuil_branch=10
+lock_keep_your_notes=true

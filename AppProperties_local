@@ -1,0 +1,7 @@
+#Ensemble des proprietes disponibles : presence question, presence answer, high priority,
+# highest priority, low priority, keep label, keep style, keep notes, keep link, content in notes, content in label 
+# 
+#exemple de declencheurs disponibles : [#0000FF, SimSun, 18pt, italic, bold, #00FF00, #FF00FF, #FFE76D, #FF0000, flag-green, other-note, other-question, 
+# other-exclam, priority-1, priority-2, priority-3, lab 1, lab 2, lab da]
+#Mon Apr 07 13:57:51 CEST 2014
+\#C0C0C0=keep label\\
